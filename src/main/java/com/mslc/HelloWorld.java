@@ -24,5 +24,8 @@ public class HelloWorld {
 	   {
 	      this.name = name;
 	   }
-
+      public void print(String name) 
+	   {
+	      System.out.println(name);
+	   }
 }
